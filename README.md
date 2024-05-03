@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm </b><b>Maja</b>👋 
-
 <h2 align="left">Part of the Student Council at <a href="https://42warsaw.pl/pl/">42 Warsaw</a></h2>
 
 ###
