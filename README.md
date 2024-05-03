@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 
+<h1 align="left">Hi, I'm </b><b>Maja</b>👋 
 
 ###
 
-<p align="left">My name is </b><b>Maja</b> and I'm a Student at <a href="https://42warsaw.pl/pl/">42 Warsaw</a>, from Warsaw</p>
+<p align="left">I'm a Student at <a href="https://42warsaw.pl/pl/">42 Warsaw</a>, from Warsaw</p>
 
 ###
 
