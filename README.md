@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">✨ I’m interested in 3D Design, 3D Printing and UX/UI Design!<br>📚 I’m currently working on projects from Common Core at 42 Warsaw after succesfully compliting Piscine <br>🎲 Fun fact: I teach kids how to croshet!🧶</p>
+<p align="left">✨ I’m interested in 3D Design, 3D Printing and UX/UI Design!<br>📚 I’m currently working on projects from Common Core at 42 Warsaw after succesfully completing Piscine <br>🎲 Fun fact: I teach kids how to croshet!🧶</p>
 
 ###
 
